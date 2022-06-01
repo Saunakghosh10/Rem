@@ -83,7 +83,7 @@ To start your bot
 npm start
 ```
 ###
-Rem is a discord music bot base in [Saunak](https://github.com/Saunakghosh10/Rem) (Saunak)
+Rem is a discord music bot base in [Music](https://github.com/Saunakghosh10/Rem) (Created by Saunak)
 If you liked this repository, feel free to leave a star ⭐ to help promote !
 
 ## 💌 Support Server
