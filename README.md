@@ -12,7 +12,6 @@
 <br />
 <p align="center">
   <a href="https://github.com/Saunakghosh10/Rem">
-    <img src="https://cdn.discordapp.com/attachments/835265718369910866/981675950326562956/642f8ead13df41f3ec14ea34fdb29012.jpg" alt="Pbot-plus" width="200" height="200">
   </a>
 
   <h3 align="center">Rem</h3>
