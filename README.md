@@ -83,11 +83,10 @@ To start your bot
 npm start
 ```
 ###
-Rem is a discord music bot base in [Kazagumo](https://github.com/Saunakghosh10/Rem) (Saunak)
+Rem is a discord music bot base in [Saunak](https://github.com/Saunakghosh10/Rem) (Saunak)
 If you liked this repository, feel free to leave a star ⭐ to help promote !
 
 ## 💌 Support Server
-[![DiscordBanner](https://invidget.switchblade.xyz/ns8CTk9J3e)](https://discord.gg/urTw2Hm3zd)
 [Support Server](https://discord.gg/urTw2Hm3zd) - Rem's Support Server Invite
 
 # Donate
